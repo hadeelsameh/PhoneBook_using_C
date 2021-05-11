@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1618848608 source:c:\users\hadeel\desktop\4th year\4th year 2nd term\codingforembeddedsw\task2\phonebook\pb.c
+	<stdio.h>
+	<stdlib.h>
+	"pb.h"
+
+1618848487 c:\users\hadeel\desktop\4th year\4th year 2nd term\codingforembeddedsw\task2\phonebook\pb.h
+	<stddef.h>
+
+1618926285 source:c:\users\hadeel\desktop\4th year\4th year 2nd term\codingforembeddedsw\phone_book\pb.c
+	<stdio.h>
+	<stdlib.h>
+	"pb.h"
+
+1618887743 c:\users\hadeel\desktop\4th year\4th year 2nd term\codingforembeddedsw\phone_book\pb.h
+	<stddef.h>
+
+1618927379 source:c:\users\hadeel\desktop\4th year\4th year 2nd term\codingforembeddedsw\phone_book\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<windows.h>
+	"pb.h"
+
